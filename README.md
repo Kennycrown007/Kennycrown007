@@ -2,7 +2,7 @@
 - 👀 I’m interested in Business and Data Analysis
 - 🌱 I’m currently learning One Campus
 - 💞️ I’m looking to collaborate on Business Analytic tools like Power BI, Tableau, SQL
-- 📫 How to reach me ...
+- 📫 How to reach me Kennycrown007@gmail.com
 
 <!---
 Kennycrown007/Kennycrown007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
